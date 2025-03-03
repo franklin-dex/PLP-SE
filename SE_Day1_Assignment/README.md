@@ -70,8 +70,8 @@ Prompt engineering is the process of crafting input prompts to guide AI systems 
 - **Importance**: It ensures the AI provides relevant, unbiased, and accurate responses, enhancing the user experience while giving developers control over interactions with the model.
 
 ### 2. Provide an example of an unclear prompt and how to make it clearer and more specific.
-- **Vague Prompt**: "Draw a picture of a person."  
-- **Improved Prompt**: "Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background."  
+- **Vague Prompt**: "Draw a cat"  
+- **Improved Prompt**: "Draw a fluffy orange tabby cat sitting on a windowsill with sunlight streaming through the window, surrounded by potted plants and a view of a garden in the background"  
 
 **Why the Improved Prompt is Better**:  
 - **Clarity**: It specifies the type of image needed (full-body portrait).  
