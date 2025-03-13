@@ -16,7 +16,7 @@ It allows users to input two numbers and a mathematical operation (**addition, s
 2. **Download or copy the script** (`calculator.py`).  
 3. **Run the script** in a terminal or command prompt:  
    ```bash
-   python calculator.py
+   python Calculator.py
 
 ## Author
 Odinaka Franklin Akamere
