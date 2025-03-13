@@ -13,7 +13,7 @@ It allows users to input two numbers and a mathematical operation (**addition, s
 
 ## How to Run
 1. **Ensure Python is installed** on your computer (Python 3 recommended).  
-2. **Download or copy the script** (`calculator.py`).  
+2. **Download or copy the script** (`Calculator.py`).  
 3. **Run the script** in a terminal or command prompt:  
    ```bash
    python Calculator.py
