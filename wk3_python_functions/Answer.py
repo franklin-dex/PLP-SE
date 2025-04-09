@@ -22,7 +22,7 @@ def main():
         price = float(input("Enter the original price: "))
         discount_percent = float(input("Enter the discount percent: "))
         
-        final_price = discount_percent(price, discount_percent)
+        final_price = calculate_discount(price, discount_percent)
         
         if discount_percent >= 20:
             print(f"Final price after {discount_percent}% discount is: ${final_price}")
